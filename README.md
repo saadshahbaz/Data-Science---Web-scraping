@@ -1,4 +1,4 @@
-# Data-Science-Web-scraping
+# Data-Science---Web-scraping
 
 The goal of this project is to get all the relationships of a multiple celebrities and return the output as a json file. 
 
