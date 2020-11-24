@@ -17,13 +17,13 @@ python collect_relationships.py -c <config-file.json> -o <output_file>
 
 ## Required libraries:
 #### 1. BeautifulSoup
-    to install beautifulsoup please run: pip install beautifulsoup4 in the command line
+   to install beautifulsoup please run the following command in your command line: `$ pip install beautifulsoup4` 
     
 #### 2. Pandas
-    to install pandas please run: pip install pandas in the command line
+   to install pandas please following command in your command line: `$ pip install pandas` 
     
 #### 3. requests
-    to install requests please run: pip install requests in the command line
+   to install requests please following command in your command line: `$ pip install requests` 
     
 
 #### The website use for scraping is: https://www.whosdatedwho.com/
