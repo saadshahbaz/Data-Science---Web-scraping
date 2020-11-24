@@ -13,7 +13,7 @@ Writing a script that collects the relationships for a set of celebrities provid
 
 ## In the terminal, run the following command
 
-python collect_relationships.py -c <config-file.json> -o <output_file>
+`$ python collect_relationships.py -c <config-file.json> -o <output_file>`
 
 ## Required libraries:
 #### 1. BeautifulSoup
