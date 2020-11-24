@@ -1,6 +1,9 @@
-# Data-Science---Web-scraping
+# Web-scraping
 
 ## The goal of this project is to get all the relationships of a multiple celebrities and return the output as a json file. 
+
+## Goal
+Writing a script that collects the relationships for a set of celebrities provided in a JSON configuration file. The code is to be written in such a way that when run twice on a specific celebrity, it will use data exclusively from the cache the second time.
 
 ## To run this file, you will need the following things:
 1. collect_relationships.py
@@ -13,15 +16,15 @@
 python collect_relationships.py -c <config-file.json> -o <output_file>
 
 ## Required libraries:
-1. BeautifulSoup
+#### 1. BeautifulSoup
     to install beautifulsoup please run: pip install beautifulsoup4 in the command line
     
-2. Pandas
+#### 2. Pandas
     to install pandas please run: pip install pandas in the command line
     
-3. requests
+#### 3. requests
     to install requests please run: pip install requests in the command line
     
- 
- The website use for scraping is: https://www.whosdatedwho.com/
+
+#### The website use for scraping is: https://www.whosdatedwho.com/
         
